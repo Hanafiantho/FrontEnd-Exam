@@ -1,0 +1,151 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "ifanhana",
+      "password": "lucubangetkak"
+    },
+    {
+      "username": "hanafiantho",
+      "email": "hanafiantho@gmail.com",
+      "password": "301190",
+      "id": 2
+    }
+  ],
+  "products": [
+    {
+      "name": "Blue Black T-Shirt",
+      "desc": "Best T-Shirt for Men",
+      "price": 100000,
+      "src": "https://rendering.documents.cimpress.io/v1/vp/preview?scene=https://scene.products.cimpress.io/v1/scenes/39fff789-7ad5-4b08-8faf-753d0c960f48&width=690&height=690&quality=80",
+      "id": 1
+    },
+    {
+      "name": "Grey T-Shirt By Uniqlo",
+      "desc": "One of the Best T-Shirt for Men",
+      "price": 150000,
+      "src": "https://de9luwq5d40h2.cloudfront.net/catalog/product/large_image/05_407044.jpg",
+      "id": 2
+    },
+    {
+      "name": "Ocean Blue T-Shirt",
+      "desc": "Best Quality Product for Men",
+      "price": 100000,
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Blue_Tshirt.jpg/220px-Blue_Tshirt.jpg",
+      "id": 3
+    },
+    {
+      "name": "Light Blue Skinny Jeans",
+      "desc": "Super Slim Fit for Women",
+      "price": 250000,
+      "src": "https://www.childrensplace.com/wcsstore/GlobalSAS/images/tcp/products/500/2092425_DA.jpg",
+      "id": 4
+    },
+    {
+      "name": "Denim Jeans",
+      "desc": "Best Quality Jeans for Men",
+      "price": 300000,
+      "src": "https://jujimufu.com/wp-content/uploads/acrobolix_product_frandenim_jeans_white.jpg",
+      "id": 5
+    },
+    {
+      "name": "Slim Fit Jeans",
+      "desc": "Best Quality Slim Fit Jeans For Men",
+      "price": 350000,
+      "src": "https://res.cloudinary.com/everlane/image/upload/c_fill,dpr_1.0,f_jpg,h_581,q_85,w_581/v1/i/f725922f_538f.jpg",
+      "id": 6
+    }
+  ],
+  "carts": [
+    {
+      "username": "ifanhana",
+      "productId": 1,
+      "productName": "Blue Black T-Shirt",
+      "productDesc": "Best T-Shirt for Men",
+      "productPrice": 100000,
+      "productSource": "https://rendering.documents.cimpress.io/v1/vp/preview?scene=https://scene.products.cimpress.io/v1/scenes/39fff789-7ad5-4b08-8faf-753d0c960f48&width=690&height=690&quality=80",
+      "productqty": 2,
+      "id": 1
+    },
+    {
+      "username": "ifanhana",
+      "productId": 2,
+      "productName": "Grey T-Shirt By Uniqlo",
+      "productDesc": "One of the Best T-Shirt for Men",
+      "productPrice": 150000,
+      "productSource": "https://de9luwq5d40h2.cloudfront.net/catalog/product/large_image/05_407044.jpg",
+      "productqty": 2,
+      "id": 2
+    },
+    {
+      "username": "ifanhana",
+      "productId": 3,
+      "productName": "Ocean Blue T-Shirt",
+      "productDesc": "Best Quality Product for Men",
+      "productPrice": 100000,
+      "productSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Blue_Tshirt.jpg/220px-Blue_Tshirt.jpg",
+      "productqty": 2,
+      "id": 3
+    },
+    {
+      "username": "ifanhana",
+      "productId": 4,
+      "productName": "Light Blue Skinny Jeans",
+      "productDesc": "Super Slim Fit for Women",
+      "productPrice": 250000,
+      "productSource": "https://www.childrensplace.com/wcsstore/GlobalSAS/images/tcp/products/500/2092425_DA.jpg",
+      "productqty": 2,
+      "id": 4
+    },
+    {
+      "username": "ifanhana",
+      "productId": 5,
+      "productName": "Denim Jeans",
+      "productDesc": "Best Quality Jeans for Men",
+      "productPrice": 300000,
+      "productSource": "https://jujimufu.com/wp-content/uploads/acrobolix_product_frandenim_jeans_white.jpg",
+      "productqty": 2,
+      "id": 5
+    },
+    {
+      "username": "ifanhana",
+      "productId": 6,
+      "productName": "Slim Fit Jeans",
+      "productDesc": "Best Quality Slim Fit Jeans For Men",
+      "productPrice": 350000,
+      "productSource": "https://res.cloudinary.com/everlane/image/upload/c_fill,dpr_1.0,f_jpg,h_581,q_85,w_581/v1/i/f725922f_538f.jpg",
+      "productqty": 2,
+      "id": 6
+    },
+    {
+      "username": "hanafiantho",
+      "productId": 1,
+      "productName": "Blue Black T-Shirt",
+      "productDesc": "Best T-Shirt for Men",
+      "productPrice": 100000,
+      "productSource": "https://rendering.documents.cimpress.io/v1/vp/preview?scene=https://scene.products.cimpress.io/v1/scenes/39fff789-7ad5-4b08-8faf-753d0c960f48&width=690&height=690&quality=80",
+      "productqty": 1,
+      "id": 7
+    },
+    {
+      "username": "hanafiantho",
+      "productId": 2,
+      "productName": "Grey T-Shirt By Uniqlo",
+      "productDesc": "One of the Best T-Shirt for Men",
+      "productPrice": 150000,
+      "productSource": "https://de9luwq5d40h2.cloudfront.net/catalog/product/large_image/05_407044.jpg",
+      "productqty": 1,
+      "id": 8
+    },
+    {
+      "username": "hanafiantho",
+      "productId": 3,
+      "productName": "Ocean Blue T-Shirt",
+      "productDesc": "Best Quality Product for Men",
+      "productPrice": 100000,
+      "productSource": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Blue_Tshirt.jpg/220px-Blue_Tshirt.jpg",
+      "productqty": 1,
+      "id": 9
+    }
+  ]
+}
